@@ -24,15 +24,15 @@ print('str1 * 3 =', str1 * 3)
 
 # using triple quotes
 
-print('''Myself, "Ahimsa Jain"''')
+print('''Myself, "Prahlad Gurjar"''')
 
 # escaping single quotes
 
-print('Myself, "Ahimsa Jain"')
+print('Myself, "Prahlad Gurjar"')
 
 # escaping double quotes
 
-print("Myself, Ahimsa Jain")
+print("Myself, Prahlad Gurjar")
 
 #Looping 
 
@@ -71,7 +71,7 @@ print(count,'letters found')
 
 #String Slicing
 
-Str1 = 'Ahimsa Jain'
+Str1 = 'Prahlad Gurjar'
 
 print("\nSlicing characters from 2-9: ",Str1[2:9])
 print("Slicing characters between 3rd and 2nd last character: ",Str1[3:-2])

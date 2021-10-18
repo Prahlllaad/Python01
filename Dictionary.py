@@ -7,7 +7,7 @@ my_dict = {}
 my_dict = {3: 'box', 1: 'choclate'}
 
 # dictionary with mixed keys
-my_dict = {'name': 'Ahimsa', 1: [2, 4, 3]}
+my_dict = {'name': 'Prahlad', 1: [2, 4, 3]}
 
 # using dict()
 my_dict = dict({3:'box', 1:'choclate'})

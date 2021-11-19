@@ -1,0 +1,7 @@
+1       Display float number with 2 decimal places using print()	Simple Input/ output and data type																							
+2	Takes two integer numbers and  return their product.																								
+3	Write a Python program to get the volume of a sphere with radius 10.																								
+4	Accept two numbers from the user and multiply them together.																								
+5	Write a Python program that accepts an integer (a) and computes the value of a+aa+aaa.																								
+6	Write a Python program to calculate the length of a string																								
+7	Write a Python program to parse a string to Float & Integer																								
